@@ -13,10 +13,10 @@ PROBLEM STATEMENT 1
  of stack, multiply them and push back to the stack.
  
  Return:
- > -1 if stack is empty or enough does not have enough elements to perform + 'or' *.
- > -1 if invalid character is entered in the input sequence.
- > -1 if input length is more than 200000.
- > The result of latest operation if end of input sequence is reached.
+ * -1 if stack is empty or enough does not have enough elements to perform + 'or' *.
+ * -1 if invalid character is entered in the input sequence.
+ * -1 if input length is more than 200000.
+ * The result of latest operation if end of input sequence is reached.
  
  
 PROBLEM STATEMENT 2
