@@ -2,7 +2,8 @@
 Solutions to coding problems that I have come across in code challenges
 
 
-PROBLEM STATEMENT 1 
+PROBLEM STATEMENT 1
+
  ******************************calculatorStack*****************************************
  Consider an input sequence containing 0-9, '*' and '+'. write a function solution(string Input)
  to Read through the input sequence and push the character to a stack if it is a digit. If
@@ -18,6 +19,7 @@ PROBLEM STATEMENT 1
  
  
 PROBLEM STATEMENT 2
+
  ************************************DecimalZip******************************************
  Given 2 non-negative integers, write a function solution(int A, int B) that returns their
  decimal zip i.e. a number which is made of alternate digits of the 2 input numbers.
@@ -35,6 +37,7 @@ PROBLEM STATEMENT 2
 
 
 PROBLEM STATEMENT 3
+
  *****************************firstPositiveIntegerNotInList******************************
  Given a list of integers, write a function solution(vector<int> A) that
  returns the lowest positive integer that is not part of the list.
@@ -44,6 +47,7 @@ PROBLEM STATEMENT 3
  
   
 PROBLEM STATEMENT 4
+
  **********************************lowestCommonInteger***********************************
  Given 2 lists of integers, write a function solution(vector<int> &A, vector<int> &B)
  that returns the minimal integer value that is present in both the lists. Return -1
