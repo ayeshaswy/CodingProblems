@@ -56,3 +56,20 @@ PROBLEM STATEMENT 4
  Given 2 lists of integers, write a function solution(vector<int> &A, vector<int> &B)
  that returns the minimal integer value that is present in both the lists. Return -1
  if there is not common value in the lists.
+
+
+                                      ClosestToZero
+ Given a list of integers find the value closes to 0. If there are 2 elements, one
+ negative and one positive, equidistant from 0 then return positive.
+ 
+                                     ParenthesesCheck
+Check if given series of curly and square parentheses is valid or not.
+
+example - 
+[{{}}] - valid
+{}[][[]]{{{}}} - valid
+{[}] - invalid
+[]{} - valid
+
+                                        BitCheck
+Check if a given bit in a given number is 1 or not. Input is a number and position of the bit to be checked.
