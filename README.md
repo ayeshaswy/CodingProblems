@@ -57,11 +57,12 @@ PROBLEM STATEMENT 4
  that returns the minimal integer value that is present in both the lists. Return -1
  if there is not common value in the lists.
 
-
+PROBLEM STATEMENT 5
                                       ClosestToZero
  Given a list of integers find the value closes to 0. If there are 2 elements, one
  negative and one positive, equidistant from 0 then return positive.
  
+ PROBLEM STATEMENT 6
                                      ParenthesesCheck
 Check if given series of curly and square parentheses is valid or not.
 
@@ -71,5 +72,6 @@ example -
 {[}] - invalid
 []{} - valid
 
+PROBLEM STATEMENT 7
                                         BitCheck
 Check if a given bit in a given number is 1 or not. Input is a number and position of the bit to be checked.
