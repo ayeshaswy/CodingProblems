@@ -57,13 +57,17 @@ PROBLEM STATEMENT 4
  that returns the minimal integer value that is present in both the lists. Return -1
  if there is not common value in the lists.
 
+
 PROBLEM STATEMENT 5
-                                      ClosestToZero
+
+                                      *ClosestToZero*
  Given a list of integers find the value closes to 0. If there are 2 elements, one
  negative and one positive, equidistant from 0 then return positive.
  
+ 
  PROBLEM STATEMENT 6
-                                     ParenthesesCheck
+ 
+                                     *ParenthesesCheck*
 Check if given series of curly and square parentheses is valid or not.
 
 example - 
@@ -73,12 +77,13 @@ example -
 []{} - valid
 
 PROBLEM STATEMENT 7
-                                        BitCheck
+
+                                        *BitCheck*
 Check if a given bit in a given number is 1 or not. Input is a number and position of the bit to be checked.
 
 
 PROBLEM STATEMENT 8
-                                        BitCheck
+                                        *BitCheck*
 Implement a cash register function for a supermarket that correctly calculates the price of a
 bag of groceries. Our supermarket offers discounts on some items when they are purchased
 in bulk.
