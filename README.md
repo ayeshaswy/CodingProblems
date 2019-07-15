@@ -75,3 +75,33 @@ example -
 PROBLEM STATEMENT 7
                                         BitCheck
 Check if a given bit in a given number is 1 or not. Input is a number and position of the bit to be checked.
+
+
+PROBLEM STATEMENT 8
+                                        BitCheck
+Implement a cash register function for a supermarket that correctly calculates the price of a
+bag of groceries. Our supermarket offers discounts on some items when they are purchased
+in bulk.
+Pricing is read from an input file in the following format:
+
+
+Item    Price   Special   Price
+--------------------------------------------
+A 	    20 	    5 for 80
+B 	    1.30
+C 	    5 	    3 for 12
+D 	    2.50 	  4 for 9
+
+Your application must produce the correct lowest possible price for the given collection of
+grocery items.
+
+Sample Input:
+AAB
+CCCBA
+DDABD
+
+Sample Output:
+41.30
+33.30
+28.80
+
